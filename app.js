@@ -50,7 +50,6 @@ document.addEventListener('keydown', (event) => {
   }
 })
 
-
 // On load - display pop-up //
 const button = document.querySelector('button')
 const popup = document.querySelector('.popup')
