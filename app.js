@@ -65,7 +65,7 @@ function startGame () {
   
   // SET INTERVAL //
    interval = setInterval((keyPress) => {
-    
+    gameOver()
     if (direction === 'left' && !(snake % width === 0)) {
       snake.forEach((bodyPart, index) => {
         cells[bodyPart].classList.remove('snake')
@@ -110,7 +110,7 @@ function startGame () {
       })
     }
     snakeEatsFruit()
-    gameOver()
+    
 }, gameSpeed)
 
 }
