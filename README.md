@@ -2,6 +2,8 @@
 
 # project-1 - Snake
 
+![Homepage](ReadMeImages/HP.png)
+
 ## Overview
 
 This is my first project of the General Assembly Software Engineering course. I was tasked with creating a simple grid based game to render in browser utilising HTML, CSS and Javascript. This project was to be completed individually and we had 5 days to complete it. 
@@ -118,9 +120,6 @@ I thought the head or tail colliding with itself would be simple, but then I rea
 
 ## CSS
 I wanted to keep this super retro and style it like some of the first online video games. I used a retro arcade font I found online and tried to keep things super simple and clean and added some retro royalty free sounds I found on zapland. 
-
-
-## Screenshot
 
 ## Future Fixes
 - Currently with game over part of the snake head is displayed on the line above or below on the opposite side of the board, so I would like to fix that at a later date 
