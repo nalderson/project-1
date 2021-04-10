@@ -1,6 +1,6 @@
 ### ![GA](https://cloud.githubusercontent.com/assets/40461/8183776/469f976e-1432-11e5-8199-6ac91363302b.png) General Assembly, Software Engineering Immersive
 
-# project-1 - Snake
+# Project 1 - Snake
 
 ![Homepage](ReadMeImages/HP.png)
 
@@ -19,6 +19,8 @@ This is my first project of the General Assembly Software Engineering course. I 
     - The snake should be able to eat food to grow bigger
     - The game should end when the snake hits the wall or itself
     - Snake speeds up as it eats more
+
+You can check out the deployed project here: [](https://nalderson.github.io/project-1/)
 
 Technologies Used:
 - HTML5
