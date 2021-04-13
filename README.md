@@ -123,6 +123,14 @@ I thought the head or tail colliding with itself would be simple, but then I rea
 ## CSS
 I wanted to keep this super retro and style it like some of the first online video games. I used a retro arcade font I found online and tried to keep things super simple and clean and added some retro royalty free sounds I found on zapland. 
 
+## Wins
+- Getting the snake head to move and the rest of the snake array to follow was a massive win
+- The Snake Eats Fruit function was tricky and took some planning, however I was pleased I was able to update the interval speed, add another piece of fruit to the board + update the score board
+
+
+## Challenges
+- The Game Over function was tricky as there was one bug that I did not have time to fix (I'll cover this further below)
+
 ## Future Fixes
 - Currently with game over part of the snake head is displayed on the line above or below on the opposite side of the board, so I would like to fix that at a later date 
 - There is no restart button, which again I would like to fix at a later date 
